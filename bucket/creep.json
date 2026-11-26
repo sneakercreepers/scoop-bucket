@@ -1,0 +1,22 @@
+{
+    "version": "0.5.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sneakercreepers/creep/releases/download/v0.5.1/creep_0.5.1_windows_amd64.zip",
+            "bin": [
+                "creep.exe"
+            ],
+            "hash": "e5c0dda47c2749f89f971a080333be438be47ca91568db358beb86e015529d64"
+        },
+        "arm64": {
+            "url": "https://github.com/sneakercreepers/creep/releases/download/v0.5.1/creep_0.5.1_windows_arm64.zip",
+            "bin": [
+                "creep.exe"
+            ],
+            "hash": "299d990bcb105cd4b63918a04125706d9d05b7b37495526cc2f40a2db36d8ef8"
+        }
+    },
+    "homepage": "https://github.com/sneakercreepers/creep",
+    "license": "Apache-2.0",
+    "description": "Model-agnostic CLI that finds vulnerabilities in local source code"
+}
